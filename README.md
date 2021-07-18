@@ -1,1 +1,1 @@
-# modalPlagin
+# modalPlugin
